@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Persometer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="tv_info">STEPS</string>
+    <string name="btn_map">Go to map</string>
+    <string name="btn_home">Go back</string>
+    <string name="btn_forceDBUpdate">steps</string>
+    <string name="et_weight">kg</string>
+    <string name="et_height">cm</string>
+    <string name="btn_updateData">settings</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_start">Start persometer</string>
+    <string name="tv_congrats1">CONGRATULATIONS!</string>
+    <string name="tv_congrats2">You accomplished your goal!</string>
+</resources>

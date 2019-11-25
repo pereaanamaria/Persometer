@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorPrimary">#8eab8c</color>
+    <color name="colorPrimaryDark">#627560</color>
+    <color name="progressStart">#f7bebc</color>
+    <color name="progressStartGradient">#c48080</color>
+    <color name="progressMiddle">#ffe8c7</color>
+    <color name="progressMiddleGradient">#cfc79c</color>
+    <color name="progressEnd">#c1e6bd</color>
+    <color name="progressEndGradient">#7e967b</color>
+</resources>
